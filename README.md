@@ -1,2 +1,4 @@
 # LakeHuronBloaters
 This is a time series project to to analyse yearly changes in the egg depositions of Lake Huron Bloaters recorded from 1981 to 1996. 
+
+*Coregonus hoyi* (bloater) is a form of freshwater whitefish commonly described as a silvery coloured herring-like fish. The bloater is one of several white fish species that have become rare almost to the point of extinction.This can be majorly attributed to overfishing due to the increase of human population in the region. In addition, the intrusion of several invasive fish species such as the *Alewife* and *Petromyzon marinus*( sea lampreys) that had a similar diet to the Bloater. For species that could not adapt their diets disappeared, became smaller in size or declined in numbers. The bloater is one such species and as a result is listed as vulnerable to global extinction by the IUCN Red List - http://www.iucnredlist.org/details/5366/0).
